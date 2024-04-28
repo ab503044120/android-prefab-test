@@ -3,6 +3,7 @@ plugins {
 }
 
 android {
+    namespace 'nl.biancavanschaik.nativelib'
     compileSdk 31
 
     defaultConfig {
